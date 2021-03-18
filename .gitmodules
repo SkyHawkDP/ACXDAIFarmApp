@@ -1,0 +1,9 @@
+[submodule "honeycomb"]
+	path = honeycomb
+	url = /home/precdesi/AdeptApp/ACXDAIFarApp/honeycomb
+[submodule "honeyswap-farm"]
+	path = honeyswap-farm
+	url = /home/precdesi/AdeptApp/ACXDAIFarApp/honeyswap-farm
+[submodule "unipool"]
+	path = unipool
+	url = /home/precdesi/AdeptApp/ACXDAIFarApp/unipool
